@@ -8,5 +8,3 @@ dependencies = [
 ]
 [tool.uv]
 add-bounds = "exact"
-
-
